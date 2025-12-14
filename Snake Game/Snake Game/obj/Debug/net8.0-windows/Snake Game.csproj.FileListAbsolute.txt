@@ -1,0 +1,19 @@
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Snake Game.exe
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Snake Game.deps.json
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Snake Game.runtimeconfig.json
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Snake Game.dll
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Snake Game.pdb
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake_Game.Form1.resources
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.csproj.GenerateResource.cache
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.AssemblyInfoInputs.cache
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.AssemblyInfo.cs
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.csproj.CoreCompileInputs.cache
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.dll
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\refint\Snake Game.dll
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.pdb
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake Game.genruntimeconfig.cache
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\ref\Snake Game.dll
+D:\C#\Snake Game\Snake Game\obj\Debug\net8.0-windows\Snake_Game.Properties.Resources.resources
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Sounds\eating-sound-effect-36186.wav
+D:\C#\Snake Game\Snake Game\bin\Debug\net8.0-windows\Sounds\game-over-arcade-6435.wav
